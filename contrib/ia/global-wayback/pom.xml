@@ -84,7 +84,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 
@@ -98,7 +98,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 
@@ -124,7 +124,7 @@
     <dependency>
       <groupId>net.bull.javamelody</groupId>
       <artifactId>javamelody-core</artifactId>
-      <version>1.43.0</version>
+      <version>1.86.0</version>
     </dependency>
     
     <dependency>
@@ -148,7 +148,7 @@
 
   <repositories>
     <repository>
-      <releases />
+      <releases/>
       <snapshots>
         <enabled>true</enabled>
         <updatePolicy>daily</updatePolicy>
